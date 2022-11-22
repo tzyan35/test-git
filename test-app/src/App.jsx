@@ -7,29 +7,6 @@ function App() {
     <div className="App">
    
       <TopBar/>
-      <p>test</p>
-      <p>test</p>
-      <p>test</p>
-       <p>test</p>
-        <p>test</p>
-        <p>test</p>
-        <p>test</p>
-         <p>test</p>
-
-          <p>test</p> <p>test</p>
-
-           <p>test</p>
-            <p>test</p> <p>test</p>
-
-            <p>test</p> <p>test</p> <p>test</p>
-            <p>test</p>
-             <p>test</p>
-             <p>test</p>
-             <p>test</p>
-             <p>test</p>
-             <p>test</p>
-             <p>test</p>
-             
 
 
     </div>

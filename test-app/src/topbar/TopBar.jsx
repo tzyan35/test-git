@@ -3,7 +3,11 @@ import React from 'react'
 
 const TopBar = () => {
   return (
-    <div className='top'>TopBar</div>
+    <div className='top'>
+      <div className="topLeft">left</div>
+      <div className="topCenter">center</div>
+      <div className="topRight">right</div>
+    </div>
   )
 }
 
