@@ -6,10 +6,10 @@ const TopBar = () => {
     <div className='top'>
       <div className="topLeft">
       {/* <FontAwesomeIcon icon="fa-brands fa-square-facebook" /> */}
-      <i class="fa-brands fa-square-facebook"></i>
-      <i class="fa-brands fa-square-twitter"></i>
-      <i class="fa-brands fa-square-pinterest"></i>
-      <i class="fa-brands fa-square-instagram"></i>
+      <i className="topIcon fa-brands fa-square-facebook"></i>
+      <i className="topIcon fa-brands fa-square-twitter"></i>
+      <i className="topIcon fa-brands fa-square-pinterest"></i>
+      <i className="topIcon fa-brands fa-square-instagram"></i>
       </div>
       <div className="topCenter">center</div>
       <ul className="topList">
@@ -24,7 +24,7 @@ const TopBar = () => {
         src="https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
         alt=""
         />
-      <i class="fa-regular fa-magnifying-glass"></i>
+      <i className="topSearchIcon fa-solid fa-magnifying-glass"></i>
       </div>
     </div>
   )
